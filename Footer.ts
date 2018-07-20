@@ -2,9 +2,9 @@
 
 import * as $ from "jquery";
 
-export class Navigation{
+export class Footer{
 
-    ShowHideNav(){
+    ShowHideSection(){
         console.log('opening mobile nav');
     }
 
